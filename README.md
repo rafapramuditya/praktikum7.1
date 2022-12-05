@@ -4,7 +4,7 @@
 ### Tugas Latihan 1
 ## latihan 1 
 ### ubahlah kode funsi di bawah ini menggunakan lambda
-![gambar](gambar/1.1.jpng)
+![gambar](gambar/1.1.jpeg)
 ### code
 ![gambar](gambar/2.png)
 # Hasil Output
